@@ -23,7 +23,7 @@ const social: Social = {
   juejin: 'https://juejin.cn/user/946044495221566',
   qq: 'https://img.kuizuo.cn/qq.png',
   wx: 'https://img.kuizuo.cn/wechat.png',
-  // zhihu: 'https://www.zhihu.com/people/kuizuo',
+  // zhihu: 'https://www.zhihu.com/people/o004',
   // cloudmusic: 'https://music.163.com/#/user/home?id=535661838',
   email: 'mailto:qinchao@43322.cn',
   discord: 'https://discord.gg/',
