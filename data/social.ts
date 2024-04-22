@@ -19,7 +19,7 @@ type SocialValue = {
 
 const social: Social = {
   github: 'https://github.com/kkkh',
-  // twitter: 'https://twitter.com/',
+  twitter: 'https://twitter.com/',
   juejin: 'https://juejin.cn/user/946044495221566',
   qq: 'https://img.kuizuo.cn/qq.png',
   wx: 'https://img.kuizuo.cn/wechat.png',
