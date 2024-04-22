@@ -17,7 +17,7 @@ const FEATURES: FeatureItem[] = [
     }),
     text: (
       <Translate>
-        作为一名 运维 网络工程师，不断 努力 不断 学习
+        作为一名 运维 网络工程师，本着不断 努力 不断 学习
         的原则，努力钻研计算机知识。
       </Translate>
     ),
@@ -26,7 +26,7 @@ const FEATURES: FeatureItem[] = [
   {
     title: translate({
       id: 'homepage.feature.spider',
-      message: '会点Java & 精通C HTML',
+      message: '会点Java & 精通C和HTML',
     }),
     text: (
       <Translate>
