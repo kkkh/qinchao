@@ -19,14 +19,14 @@ type SocialValue = {
 
 const social: Social = {
   github: 'https://github.com/kkkh',
-  qinchao: 'https://43322.cn/',
+  twitter: 'https://43322.cn/',
   juejin: 'https://juejin.cn/user/946044495221566',
   qq: 'https://o.43322.cn/%E5%AD%A6%E6%9C%89%E6%89%80%E6%88%90/2023%E5%B9%B411%E6%9C%8818%E6%97%A5/QQ.JPG',
   wx: 'https://o.43322.cn/%E5%AD%A6%E6%9C%89%E6%89%80%E6%88%90/2023%E5%B9%B411%E6%9C%8818%E6%97%A5/Wechat.JPG',
   // zhihu: 'https://www.zhihu.com/people/o004',
   // cloudmusic: 'https://music.163.com/#/user/home?id=535661838',
   email: 'mailto:qinchao@43322.cn',
-  qin: 'https://43322.cn/',
+  discord: 'https://43322.cn/',
 }
 
 const socialSet: Record<keyof Social | 'rss', SocialValue> = {
@@ -44,13 +44,13 @@ const socialSet: Record<keyof Social | 'rss', SocialValue> = {
   },
   twitter: {
     href: social.twitter,
-    title: 'Twitter',
+    title: 'qinchao',
     icon: 'ri:twitter-line',
     color: '#1da1f2',
   },
   discord: {
     href: social.discord,
-    title: 'Discord',
+    title: 'qin',
     icon: 'ri:discord-line',
     color: '#5A65F6',
   },
