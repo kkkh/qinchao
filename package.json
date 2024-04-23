@@ -2,15 +2,15 @@
   "name": "blog",
   "version": "3.0.0",
   "author": {
-    "url": "https://github.com/kuizuo",
-    "email": "hi@kuizuo.cn",
-    "name": "愧怍"
+    "url": "https://github.com/qinchao",
+    "email": "qinchao@43322.cn",
+    "name": "秦超"
   },
   "repository": {
-    "url": "https://github.com/kuizuo/blog",
+    "url": "https://github.com/kkkh/qinchao",
     "type": "git"
   },
-  "homepage": "https://kuizuo.cn",
+  "homepage": "https://43322.cn",
   "license": "MIT",
   "scripts": {
     "docusaurus": "docusaurus",
