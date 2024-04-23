@@ -96,9 +96,9 @@ const config: Config = {
           items: [
             { label: '关于我', to: '/about' },
             { label: 'GitHub', href: social.github.href },
-            { label: 'Twitter', href: social.twitter.href },
+            { label: '学有所成', href: social.twitter.href },
             { label: '掘金', href: social.juejin.href },
-            { label: 'Discord', href: social.discord.href },
+            { label: '平安喜乐', href: social.discord.href },
           ],
         },
         {
@@ -127,7 +127,7 @@ const config: Config = {
     algolia: {
       appId: 'GV6YN1ODMO',
       apiKey: '50303937b0e4630bec4a20a14e3b7872',
-      indexName: 'qinchao',
+      indexName: 'kuizuo',
     },
     prism: {
       theme: themes.oneLight,
