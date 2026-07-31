@@ -127,7 +127,7 @@ const config: Config = {
     algolia: {
       appId: '3L4VO5YYV6',
       apiKey: 'c543834be8b612459e72b5e33a8c8761',
-      indexName: 'qinchao',
+      indexName: 'kuizuo',
     },
     prism: {
       theme: themes.oneLight,
