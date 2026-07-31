@@ -204,7 +204,7 @@ const config: Config = {
     'docusaurus-plugin-image-zoom',
     'docusaurus-plugin-sass',
     '@docusaurus/plugin-ideal-image',
-    ['docusaurus-plugin-baidu-tongji', { token: 'c9a3849aa75f9c4a4e65f846cd1a5155' }],
+    ['docusaurus-plugin-baidu-tongji', { token: '5967f322c4b04d1b8284b67e3b8d3863' }],
     [
       '@docusaurus/plugin-pwa',
       {
