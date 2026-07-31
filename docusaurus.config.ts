@@ -125,8 +125,8 @@ const config: Config = {
         `,
     },
     algolia: {
-      appId: 'SLO4MC88A6',
-      apiKey: '9a7b7cae4b7925f29833e10262f48c28',
+      appId: '8Q972RU8FM',
+      apiKey: '12b872c1c18abb4d19d631a1e95365dc',
       indexName: 'qinchao',
     },
     prism: {
