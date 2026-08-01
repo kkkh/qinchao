@@ -5,7 +5,6 @@ date: 2026-08-01
 authors: qinchao
 tags: [GitHub, 仓库, 创建仓库, README, index.html, 提交更改, 初学者指南, 项目管理, 网页托管]
 keywords: [GitHub, 仓库, Repository, 创建仓库, README, index.html, 提交更改, 版本控制, 项目管理, 初学者指南]
-image: http://image.43322.cn/img/get-started-start-your-journey.png
 ---
 
  如何在 GitHub 上创建一个仓库来存放项目代码，并以 stargazers-log 为例为后续的规划、编写、审查和部署做准备。
