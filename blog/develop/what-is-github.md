@@ -41,7 +41,7 @@ Git 是一个版本控制系统，用于跟踪对文件的更改。 它允许你
 
 GitHub 基于 Git，既在云端托管称为 **仓库** 的 Git 项目，又提供规划和协作工具，让团队更轻松地开展协作。
 
-有关 Git 的详细信息，请参阅 [关于 Git](/zh/get-started/using-git/about-git)。
+有关 Git 的详细信息，请参阅 [关于 Git](https://docs.github.com/zh/get-started/using-git/about-git)。
 
 ## GitHub 适合我吗？
 
@@ -63,9 +63,9 @@ GitHub 学生、开发人员、项目经理、安全团队、数据科学家、�
 
 ## 从哪里开始？
 
-如果你不熟悉 GitHub 和不熟悉 Git，我们建议使用 [开始你的旅程](/zh/get-started/start-your-journey) 类别中的文章。 本文介绍如何执行软件开发人员使用的 GitHub常见任务，例如：
+如果你不熟悉 GitHub 和不熟悉 Git，我们建议使用 [开始你的旅程](https://docs.github.com/zh/get-started/start-your-journey) 类别中的文章。 本文介绍如何执行软件开发人员使用的 GitHub常见任务，例如：
 
-* **为软件项目创建存储库** 并存储代码 GitHub，请参阅 [在 GitHub 上为项目创建存储库](/zh/get-started/start-your-journey/creating-a-repository-for-your-project-on-github)。
+* **为软件项目创建存储库** 并存储代码 GitHub，请参阅 [在 GitHub 上为项目创建存储库](https://docs.github.com/zh/get-started/start-your-journey/creating-a-repository-for-your-project-on-github)。
 * 通过创建问题和跟踪项目工作来**规划工作**。
 * **连接到本地计算机上的代码** ，并使用 GitHub Desktop 应用程序通过 Git 管理代码更改。
 * **编写和存储代码**，（可选）与 AI 助手配对，并将更改与 GitHub同步。
