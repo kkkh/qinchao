@@ -20,8 +20,9 @@ image: http://image.43322.cn/img/get-started-start-your-journey.png
 
 `stargazers-log` 是一个简单的网站，可追踪并显示你加了星标的存储库。 它可帮助你构建你关心的工具和代码示例的个人目录。 为存储库加星标还有助于将项目收藏起来，以便日后查看，并向维护者表达赞赏。
 
-> \[!NOTE]
-> 在学习本系列内容时，如果使用 带有数据驻留权的 GitHub Enterprise Cloud 或 GitHub Enterprise Server，则需要将对 GitHub.com 的引用和链接替换为企业专用 URL。
+:::note
+在学习本系列内容时，如果使用带有数据驻留权的 GitHub Enterprise Cloud 或 GitHub Enterprise Server，则需要将对 GitHub.com 的引用和链接替换为企业专用 URL。
+:::
 
 ## 先决条件
 
