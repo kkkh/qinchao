@@ -21,8 +21,7 @@ const social: Social = {
   github: 'https://github.com/kkkh',
   twitter: 'https://43322.cn/',
   juejin: 'https://juejin.cn/user/946044495221566',
-  qq: '点击链接加我为QQ好友：
-https://qm.qq.com/q/aq2KCe44jC',
+  qq: 'https://qm.qq.com/q/aq2KCe44jC',
   wx: 'https://img.43322.cn/file/JPHidx',
   // zhihu: 'https://www.zhihu.com/people/o004',
   // cloudmusic: 'https://music.163.com/#/user/home?id=535661838',
