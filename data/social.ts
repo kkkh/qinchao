@@ -21,8 +21,9 @@ const social: Social = {
   github: 'https://github.com/kkkh',
   twitter: 'https://43322.cn/',
   juejin: 'https://juejin.cn/user/946044495221566',
-  qq: 'https://o.43322.cn/%E5%AD%A6%E6%9C%89%E6%89%80%E6%88%90/2023%E5%B9%B411%E6%9C%8818%E6%97%A5/QQ.JPG',
-  wx: 'https://o.43322.cn/%E5%AD%A6%E6%9C%89%E6%89%80%E6%88%90/2023%E5%B9%B411%E6%9C%8818%E6%97%A5/Wechat.JPG',
+  qq: '点击链接加我为QQ好友：
+https://qm.qq.com/q/aq2KCe44jC',
+  wx: 'https://img.43322.cn/file/JPHidx',
   // zhihu: 'https://www.zhihu.com/people/o004',
   // cloudmusic: 'https://music.163.com/#/user/home?id=535661838',
   email: 'mailto:qinchao@43322.cn',
