@@ -73,8 +73,7 @@
   },
   "engines": {
     "node": ">=18.0"
-  }
-{ 
+  }, 
 "pnpm": { 
 "packageExtensions": { 
 "@docusaurus/theme-classic": { 
