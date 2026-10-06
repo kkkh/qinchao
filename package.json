@@ -73,16 +73,5 @@
   },
   "engines": {
     "node": ">=18.0"
-  }, 
-"pnpm": { 
-"packageExtensions": { 
-"@docusaurus/theme-classic": { 
-"peerDependencies": { 
-"webpack": "^5.89.0" 
-} 
-} 
-} 
-} 
+  }
 }
-
-
